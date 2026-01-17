@@ -1,5 +1,52 @@
-# 💫 About Me:
-👋 Hi there, I’m a Computer Science Engineering student<br><br>🔭 About Me<br>I am currently pursuing Computer Science Engineering (CSE) at Madhav Institute of Technology & Science (MITS), Gwalior. I have a strong interest in software development and game development, and I enjoy learning by building interactive and practical projects.<br><br>👯 I’m looking to collaborate on<br><br>Game development projects using Godot Engine<br><br>Beginner to intermediate game programming projects<br><br>Open-source software and student-led tech projects<br><br>🤝 I’m looking for help with<br><br>Game development workflows and best practices<br><br>Writing efficient game logic and mechanics<br><br>Improving problem-solving skills for software and games<br><br>🌱 I’m currently learning<br><br>Godot Engine and game development fundamentals<br><br>Programming concepts using C++ and Python<br><br>Core computer science subjects and software engineering basics<br><br>💬 Ask me about<br><br>Godot game development<br><br>Basic game logic and mechanics<br><br>C/C++ and Python fundamentals<br><br>Starting projects as a CSE student<br><br>⚡ Fun fact<br>I enjoy turning ideas into small games and learning programming concepts through game development.
+💫 About Me
+
+👋 Hi there! I’m a Computer Science Engineering (CSE) student with a strong interest in building practical, interactive software solutions.
+
+🔭 About Me
+
+I am currently pursuing Computer Science Engineering (CSE) at Madhav Institute of Technology & Science (MITS), Gwalior. I am passionate about software development, game development, and web development, and I enjoy learning by building real-world, hands-on projects. I like exploring how different technologies come together to create complete applications—from backend logic to interactive user interfaces.
+
+👯 I’m Looking to Collaborate On
+
+Game development projects using Godot Engine
+
+Beginner to intermediate game programming projects
+
+Web development projects (frontend or full-stack at a beginner level)
+
+Open-source software and student-led tech initiatives
+
+🤝 I’m Looking for Help With
+
+Game development workflows and best practices
+
+Writing efficient game logic, mechanics, and state management
+
+Web development best practices, project structure, and clean UI design
+
+Improving problem-solving skills for software development and games
+
+🌱 I’m Currently Learning
+
+Godot Engine and core game development fundamentals
+
+Programming using C++ and Python
+
+Web development basics (HTML, CSS, JavaScript, and introductory frameworks)
+
+Core computer science subjects and software engineering fundamentals
+
+💬 Ask Me About
+
+Godot game development basics
+
+Game logic, mechanics, and simple AI behaviors
+
+Web development fundamentals and beginner projects
+
+C/C++ and Python basics
+
+Getting started with projects as a CSE student
 
 
 ## 🌐 Socials:
